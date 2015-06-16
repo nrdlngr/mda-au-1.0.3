@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AudioComponents</key>
+	<array>
+		<dict>
+			<key>description</key>
+			<string>Amp &amp; Speaker Simulator</string>
+			<key>factoryFunction</key>
+			<string>ComboFactory</string>
+			<key>manufacturer</key>
+			<string>mda</string>
+			<key>name</key>
+			<string>mda: Combo</string>
+			<key>subtype</key>
+			<string>Cmbo</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<string>1.0.3</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>sample quality reduction</string>
+			<key>factoryFunction</key>
+			<string>DegradeFactory</string>
+			<key>manufacturer</key>
+			<string>mda</string>
+			<key>name</key>
+			<string>mda: Degrade</string>
+			<key>subtype</key>
+			<string>mdaC</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<string>1.0.3</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>simple stereo up/down pitch shifting thickener</string>
+			<key>factoryFunction</key>
+			<string>DetuneFactory</string>
+			<key>manufacturer</key>
+			<string>mda</string>
+			<key>name</key>
+			<string>mda: Detune</string>
+			<key>subtype</key>
+			<string>mdat</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<string>1.0.3</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>delay with feedback saturation and time/pitch modulation</string>
+			<key>factoryFunction</key>
+			<string>DubDelayFactory</string>
+			<key>manufacturer</key>
+			<string>mda</string>
+			<key>name</key>
+			<string>mda: Dub Delay</string>
+			<key>subtype</key>
+			<string>mdafl</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<string>1.0.3</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Compressor / Limiter / Gate</string>
+			<key>factoryFunction</key>
+			<string>DynamicsFactory</string>
+			<key>manufacturer</key>
+			<string>mda</string>
+			<key>name</key>
+			<string>mda: Dynamics</string>
+			<key>subtype</key>
+			<string>Dyna</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<string>1.0.3</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>drum loop pitch changer</string>
+			<key>factoryFunction</key>
+			<string>RePsychoFactory</string>
+			<key>manufacturer</key>
+			<string>mda</string>
+			<key>name</key>
+			<string>mda: RePsycho!</string>
+			<key>subtype</key>
+			<string>mdaY</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<string>1.0.3</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>simple ring modulator with sine-wave oscillator</string>
+			<key>factoryFunction</key>
+			<string>RingFactory</string>
+			<key>manufacturer</key>
+			<string>mda</string>
+			<key>name</key>
+			<string>mda: Ring Mod</string>
+			<key>subtype</key>
+			<string>mdaR</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<string>1.0.3</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>3D Auto Pan</string>
+			<key>factoryFunction</key>
+			<string>RoundPanFactory</string>
+			<key>manufacturer</key>
+			<string>mda</string>
+			<key>name</key>
+			<string>mda: Round Pan</string>
+			<key>subtype</key>
+			<string>rPan</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<string>1.0.3</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>continuously rising/falling tone generator</string>
+			<key>factoryFunction</key>
+			<string>ShepardFactory</string>
+			<key>manufacturer</key>
+			<string>mda</string>
+			<key>name</key>
+			<string>mda: Shepard Tones</string>
+			<key>subtype</key>
+			<string>mdaX</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<string>1.0.3</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>add artificial width to a mono signal</string>
+			<key>factoryFunction</key>
+			<string>StereoFactory</string>
+			<key>manufacturer</key>
+			<string>mda</string>
+			<key>name</key>
+			<string>mda: Stereo Simulator</string>
+			<key>subtype</key>
+			<string>mdaS</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<string>1.0.3</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>More bass than you could ever need!</string>
+			<key>factoryFunction</key>
+			<string>SubSynthFactory</string>
+			<key>manufacturer</key>
+			<string>mda</string>
+			<key>name</key>
+			<string>mda: Sub-Bass Synthesizer</string>
+			<key>subtype</key>
+			<string>MDAB</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<string>1.0.3</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>High Resolution Vocoder</string>
+			<key>factoryFunction</key>
+			<string>TalkboxFactory</string>
+			<key>manufacturer</key>
+			<string>mda</string>
+			<key>name</key>
+			<string>mda: Talkbox</string>
+			<key>subtype</key>
+			<string>Talk</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<string>1.0.3</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Audio Test Signal Generator</string>
+			<key>factoryFunction</key>
+			<string>TestToneFactory</string>
+			<key>manufacturer</key>
+			<string>mda</string>
+			<key>name</key>
+			<string>mda: Test Tone</string>
+			<key>subtype</key>
+			<string>mdaJ</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<string>1.0.3</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>pitch-tracking oscillator, or pitch-tracking EQ</string>
+			<key>factoryFunction</key>
+			<string>TrackerFactory</string>
+			<key>manufacturer</key>
+			<string>mda</string>
+			<key>name</key>
+			<string>mda: Tracker</string>
+			<key>subtype</key>
+			<string>Test</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<string>1.0.3</string>
+		</dict>
+	</array>
+	<key>BuildMachineOSBuild</key>
+	<string>14D136</string>
+	<key>CFBundleExecutable</key>
+	<string>mda</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.mda-vst.AudioUnits</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.3</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>6D2105</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>14D125</string>
+	<key>DTSDKName</key>
+	<string>macosx10.10</string>
+	<key>DTXcode</key>
+	<string>0632</string>
+	<key>DTXcodeBuild</key>
+	<string>6D2105</string>
+</dict>
+</plist>
