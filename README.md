@@ -7,9 +7,9 @@ are held in one file. To install, copy the mda.component file into this folder:
 
   /Library/Audio/Plug-Ins/Components
 
-Plug-ins copyright (c)1998-2007 Paul Kellett (http://www.mda-vst.com)
-Updated to Audio Unit format by Sophia Poirier (http://destroyfx.org/)
-Updated to run on OSX 10.7 and later by Eric Nordlund (https://github.com/nrdlngr/mda-vst-code)
+  - Plug-ins copyright (c)1998-2007 Paul Kellett (http://www.mda-vst.com)
+  - Updated to Audio Unit format by Sophia Poirier (http://destroyfx.org/)
+  - Updated to run on OSX 10.7 and later by Eric Nordlund (https://github.com/nrdlngr/mda-vst-code)
 
 
 mda Combo
